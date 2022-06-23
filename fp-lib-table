@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Alchitry")(type "KiCad")(uri "${KIPRJMOD}/Alchitry/Alchitry.pretty")(options "")(descr ""))
+  (lib (name "Raspberry_Pi")(type "KiCad")(uri "${KIPRJMOD}/Raspberry_Pi/Raspberry_Pi.pretty")(options "")(descr ""))
+)
