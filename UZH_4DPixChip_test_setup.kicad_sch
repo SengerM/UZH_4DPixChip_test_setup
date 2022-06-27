@@ -6,9 +6,10 @@
 
   (title_block
     (title "4DPixChip Test Setup 1")
-    (date "2022-06-25")
+    (date "2022-06-27")
     (company "University of Zurich")
     (comment 1 "Board 220625")
+    (comment 2 "Matias Senger")
   )
 
   (lib_symbols
